@@ -7,7 +7,7 @@
 
 Cloud-native architecture developed for the ingestion, processing and visualization of environmental data related to the Mar Menor ecosystem.
 
-## Objectives
+## Purpose
 
 The objective of this project is to design a scalable cloud infrastructure capable of automatically collecting, processing and serving environmental data.
 
@@ -33,10 +33,3 @@ The objective of this project is to design a scalable cloud infrastructure capab
 - Event-driven processing
 - Monitoring and alerting
 
-## Repository Structure
-
-```text
-docs/
-images/
-src/
-README.md
